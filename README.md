@@ -51,17 +51,8 @@ Le projet utilise les bibliothèques suivantes :
 │   ├── 📂 cagcmm  # Code pour la méthode CAGCMM
 │── 📂 presentation  # Contient les diapositives explicatives
 │── README.md  # Fichier de documentation
-│── requirements.txt  # Liste des dépendances
 ```
 
----
-
-## 🚀 Utilisation  
-Exécutez les scripts des méthodes respectives pour tester la séparation des sources :  
-
-```bash
-python code/sparse_source_recovery/script.py
-python code/cagcmm/script.py
 ```
 
 📌 Vous pouvez modifier les paramètres dans les fichiers de configuration pour tester différentes configurations.  
@@ -72,12 +63,3 @@ python code/cagcmm/script.py
 ✅ Visualisation des signaux originaux, mélangés et reconstruits  
 ✅ Comparaison des performances des deux méthodes à l'aide de métriques adaptées  
 
----
-
-## ✍️ Auteur  
-📌 Projet réalisé par **Dammak Iyed**  
-
----
-
-## 📜 Licence  
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.  
