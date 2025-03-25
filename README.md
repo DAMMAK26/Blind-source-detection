@@ -57,7 +57,7 @@ Le projet utilise les bibliothèques suivantes :
 
 📌 Vous pouvez modifier les paramètres dans les fichiers de configuration pour tester différentes configurations.  
 
----
+
 
 ## 📊 Résultats  
 ✅ Visualisation des signaux originaux, mélangés et reconstruits  
